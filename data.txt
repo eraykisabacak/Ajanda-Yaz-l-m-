@@ -1,0 +1,2 @@
+eray|kısabacak|17.05.2012 00:00:00|ogrenci|ERKEK|BEKAR|eray@hotmail.com|Konya|0546545244
+hakan|oksuz|17.05.2012 00:00:00|ogrenci|ERKEK|BEKAR|hakan@hotmail.com|Konya|08745215365
