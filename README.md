@@ -148,3 +148,5 @@
 <!-- wp:image {"id":232,"align":"center"} -->
 <div class="wp-block-image"><figure class="aligncenter"><img src="http://eraykisabacak.com/wp-content/uploads/2019/08/C-Ajanda-Yazılımı-Personel-Girişi-ve-FileStream-Dosya-İşlemleri-3.png" alt="" class="wp-image-232"/></figure></div>
 <!-- /wp:image -->
+
+http://eraykisabacak.com/c-ajanda-yazilimi-personel-girisi-ve-filestream-dosya-islemleri/
