@@ -137,12 +137,9 @@
 <p><strong>4.</strong>Personel Kayıt Arama Ekranında personel adına göre arama işlemi yapılacak; ilk bulunan kayıt bilgileri yeni bir FormKayıt Penceresi içinde gösterilecektir.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>5.</strong>30.05.2019 Perşembe günü ders saatinde şahsen yapılacaktır.&nbsp;Kontrole gelmeyenlerin ödevleri geçersiz sayılacaktır.</p>
-<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>6.</strong>Dosya adı: öğrenci_numarası.rar şeklinde olmalıdır.</p>
+<p><strong>5.</strong>Dosya adı: öğrenci_numarası.rar şeklinde olmalıdır.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":232,"align":"center"} -->
